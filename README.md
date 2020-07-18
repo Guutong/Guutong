@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub followers](https://img.shields.io/github/followers/GUUTONG?color=g&label=follower%20%40GuutonG%20&logo=GITHUB)
+
  ✨ _special_ ✨
 <!--
 **Guutong/Guutong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
